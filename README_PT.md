@@ -1,6 +1,3 @@
-# README_PT.md (Português)
-
-```markdown
 # Statistics for Data Science
 
 🇺🇸 [Read in English](README.md)
