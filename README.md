@@ -1,8 +1,15 @@
+# README.md (English)
+
+```markdown
 # Statistics for Data Science
 
-This repository contains my study notes, summaries, and practical notebooks focused on Statistics, Probability, and Machine Learning foundations for Data Science and AI Engineering.
+🇧🇷 [Leia em Português](README_PT.md)
 
-The material is based on courses, books, hands-on exercises, and concepts studied during the Probability and Statistics Extension Course from USP - ICMC (University of São Paulo), covering topics such as:
+This repository contains study notes, summaries, and practical notebooks based on books, hands-on exercises, and concepts studied during the Probability and Statistics Extension Course from USP - ICMC (University of São Paulo).
+
+The material focuses on building strong foundations in Statistics, Probability, and Machine Learning for Data Science and AI Engineering.
+
+## Topics Covered
 
 - Linear Regression
 - Logistic Regression
@@ -52,15 +59,15 @@ The main goal of this repository is to:
 - matplotlib
 - seaborn
 
-## Notes
-
-Most notebooks focus on intuitive explanations, visual understanding, and practical examples rather than purely mathematical derivations.
-
-This repository is part of my ongoing journey transitioning into AI Engineering and Applied Machine Learning.
-
 ## Recommended Resources
 
 - Introduction to Statistical Learning
 - Practical Statistics for Data Scientists
 - StatQuest
 - 3Blue1Brown
+
+## Notes
+
+Most notebooks focus on intuitive explanations, visual understanding, and practical examples rather than purely mathematical derivations.
+
+This repository is part of my ongoing journey transitioning into AI Engineering and Applied Machine Learning.
