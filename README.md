@@ -2,7 +2,7 @@
 
 This repository contains my study notes, summaries, and practical notebooks focused on Statistics, Probability, and Machine Learning foundations for Data Science and AI Engineering.
 
-The material is based on courses, books, and hands-on exercises covering topics such as:
+The material is based on courses, books, hands-on exercises, and concepts studied during the Probability and Statistics Extension Course from USP - ICMC (University of São Paulo), covering topics such as:
 
 - Linear Regression
 - Logistic Regression
